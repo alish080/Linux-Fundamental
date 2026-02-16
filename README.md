@@ -25,6 +25,7 @@ This part covers the following directories and concepts:
 - **PDF file** – Clean, structured notes for study and revision  
 - Handwrriten notes
 
+**NOTE:PLEASE DOWNLOAD THE FILE**
 ## Purpose of These Notes
 
 - Build strong **Linux fundamentals**
