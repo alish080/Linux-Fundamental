@@ -37,6 +37,9 @@ This part covers the following directories and concepts:
   - DevOps Engineer
   - Cybersecurity Professional
 
+  ## Video
+  https://youtu.be/yC4pv29DxaY
+
 ##  Contact
 
 If you have questions or suggestions, feel free to reach out:
