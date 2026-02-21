@@ -44,8 +44,8 @@ This part covers the following directories and concepts:
   - Cybersecurity Professional
 
   ## Video
-  https://youtu.be/yC4pv29DxaY   (part-1)
-  https://youtu.be/uXwu7GjnZ-g   (part-2)
+  -https://youtu.be/yC4pv29DxaY   (part-1)
+  -https://youtu.be/uXwu7GjnZ-g   (part-2)
 
 ##  Contact
 
