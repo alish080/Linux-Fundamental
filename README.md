@@ -19,6 +19,12 @@ This part covers the following directories and concepts:
   - `/etc/hostname`
   - `/etc/ssh/`
   - Basic system and security configuration concepts
+ 
+  ## Contents (Part 2)
+  - `/home`
+  - `/var` and `log,/crash,/spool,/cache,/matrics,/tmp`
+  - `/tmp`
+  - `/boot`
 
 ## Files Included
 
@@ -38,7 +44,7 @@ This part covers the following directories and concepts:
   - Cybersecurity Professional
 
   ## Video
-  https://youtu.be/yC4pv29DxaY
+  https://youtu.be/yC4pv29DxaY   (part-1)
 
 ##  Contact
 
