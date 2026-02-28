@@ -1,4 +1,4 @@
-# Linux System Fundamentals – Part 1
+# Linux System Fundamentals 
 
 This repository contains **structured notes on Linux system fundamentals**, focusing on the Linux filesystem hierarchy and core system concepts.  
 These notes are intended for **students, beginners, and aspiring system administrators** who want to understand how Linux systems work internally.
@@ -25,6 +25,12 @@ This part covers the following directories and concepts:
   - `/var` and `log,/crash,/spool,/cache,/matrics,/tmp`
   - `/tmp`
   - `/boot`
+
+  ## Contents (Part 3)
+  - `/dev`
+  - `/proc`
+  - `/sys `
+  - `/mnt` & `/media`
 
 ## Files Included
 
