@@ -54,6 +54,8 @@ This part covers the following directories and concepts:
   
   -https://youtu.be/uXwu7GjnZ-g   (part-2)
 
+  -https://youtu.be/e-nA1F37FEU   (part-3)
+
 ##  Contact
 
 If you have questions or suggestions, feel free to reach out:
